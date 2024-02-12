@@ -8,7 +8,7 @@ Also, to understand further all the content present, I fully recoment watching t
 
 ## Structure
 
-The model for testing is compiled under harm_text.h5 in the root folder
+The model for testing is compiled under harm_text.h5 in the src folder
 
 The train data is present at jigsaw-toxic-comment-classification-challenge/train.csv/train.csv
 
